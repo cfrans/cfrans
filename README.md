@@ -1,4 +1,4 @@
-# Olá, eu sou o Caio Franson! 👋
+# Hey there, I'm Caio Franson! 👋
 
 ### Analista de T.I. | Estudante de Análise e Desenvolvimento de Sistemas
 
